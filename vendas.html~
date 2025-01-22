@@ -8,6 +8,10 @@
     </head>
     <body>
         <h1>PÁGINA DE VENDAS</h1>
-        <a href="http://index.html"> Ir para a página de vendas</a>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Nullam nec purus nec nunc
+        </p>
+        <a href="http://index.html">Voltar para a página inicial</a>
     </body>
 </html>
